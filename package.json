@@ -4,7 +4,7 @@
   "description": "",
   "main": "findDuplicates.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./spec"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "url": "https://github.com/stephen-mckeown/findDuplicate/issues"
   },
   "homepage": "https://github.com/stephen-mckeown/findDuplicate#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.0.2"
   }
