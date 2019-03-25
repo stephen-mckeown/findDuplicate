@@ -1,0 +1,23 @@
+{
+  "name": "findduplicate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findDuplicates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephen-mckeown/findDuplicate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephen-mckeown/findDuplicate/issues"
+  },
+  "homepage": "https://github.com/stephen-mckeown/findDuplicate#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
