@@ -13,7 +13,7 @@ To run this project you will need to clone it onto your local machine and instal
 
 Navigate to you chosen directory and run the following command in the commandline to clone the package:
 ```
-    
+   https://github.com/stephen-mckeown/findDuplicate.git 
 ```
 
 To install all depencency run:
